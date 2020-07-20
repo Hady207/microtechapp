@@ -1,4 +1,4 @@
-# microtechapp
+# microtech app
 
 ### This is a chatting app between a customer and an admin of the application, customer can enquire about an item, and then the admin can start a chat with him.
 
